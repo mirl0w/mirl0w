@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ ![mirl0w's GitHub stats](https://github-stats-extended.vercel.app/api?username=mirl0w)
 <!--
 **mirl0w/mirl0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
