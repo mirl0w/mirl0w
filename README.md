@@ -1,5 +1,4 @@
 ## Hi there 👋
- ![mirl0w's GitHub stats](https://github-stats-extended.vercel.app/api?username=mirl0w)
   ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mirl0w)
 
 <!--
